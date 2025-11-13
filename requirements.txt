@@ -1,0 +1,9 @@
+streamlit
+torch
+torchvision
+numpy
+pillow
+matplotlib
+gdown
+segment-anything
+opencv-python-headless
